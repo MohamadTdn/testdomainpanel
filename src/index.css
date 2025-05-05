@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@utility container {
+  @apply min-w-screen mx-auto px-5
+}
